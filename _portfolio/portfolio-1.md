@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project:Simulation Design and Mechanical Study of the Stretchable Soft Neural Ultramicroelectrodes "
+excerpt: "Content: Through the utilization of multivariate optimization in material and structural design, coupled with the utilization of simulation software for computational modeling, the objective is to ensure that flexible neural microelectrodes exhibit favorable extensible mechanical properties. <br/><img src='/images/showcase.png'>"
 collection: portfolio
 ---
 
